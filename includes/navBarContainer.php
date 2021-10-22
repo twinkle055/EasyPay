@@ -28,6 +28,10 @@
       </div>
 
       <div class="navItem">
+        <a href="notifications.php" class="navItemLink"> Notifications </a>
+      </div>
+
+      <div class="navItem">
         <a href="profile.php" class="navItemLink"> <?php echo $userLoggedIn->getFirstAndLastName(); ?> </a>
       </div>
 
