@@ -13,9 +13,9 @@ $(document).ready(function() {
 })
 
 function registerTitle() {
-  document.title = "Registeration - Melody";
+  document.title = "Registeration - EasyPay";
 }
 
 function loginTitle() {
-  document.title = "Login - Melody";
+  document.title = "Login - EasyPay";
 }
